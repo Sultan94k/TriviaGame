@@ -16,6 +16,7 @@ body{
 }
 
 .jumbotron{
+    border-radius: 30px;
     background-image: url('https://ueallc.com/wp-content/uploads/2017/04/background.png');
     background-size: cover;
     text-align: center;
