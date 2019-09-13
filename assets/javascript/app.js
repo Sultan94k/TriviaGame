@@ -144,3 +144,8 @@ $('#start').click(function(){
     $('#time').html(counter);
     loadQuestion();
 });
+
+
+
+
+
