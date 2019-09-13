@@ -28,13 +28,13 @@ const quizQuestions = [
 ];
 
 const funImages = [
-    './assets/images/333.gif',
-    './assets/images/giphy11.gif',
-    './assets/images/giphy22.gif'
+    './assets/images/fun1.gif',
+    './assets/images/fun2.gif',
+    './assets/images/fun3.gif'
 ];
 
 const sadImages = [
     './assets/images/giphy1.gif',
-    './assets/images/giphy2.gif',
-    './assets/images/giphy3.gif'
+    './assets/images/sad3.gif',
+    './assets/images/sad1.gif'
 ]

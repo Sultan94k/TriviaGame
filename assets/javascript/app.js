@@ -81,7 +81,7 @@ $(document).on('click', '.choice', function () {
         lost++;
         console.log('lost!');
         preloadImage('lost');
-        setTimeout(nextQuestion, 3 * 1000);
+        setTimeout(nextQuestion, 5 * 1000);
     }
 });
 
