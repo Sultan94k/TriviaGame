@@ -1,4 +1,4 @@
-# TriviaGame
+#  <p align="center"> TriviaGame <p>
 ###### Feeling bored? Want to play something funny? Then this is the Game you want to play.
 This is quiz based App that questions randomly generated with countdown timer for answer. App gives correct/incorrect answer with gif/image after user guess. After all questions, app will display score with the option to restart the game.
 * Demo [https://sultan94k.github.io/TriviaGame/]
